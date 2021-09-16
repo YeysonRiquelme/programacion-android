@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Controles2</string>
+    <string name="text1">nombres</string>
+    <string name="text3">apellidos</string>
+    <string name="ch1">Java</string>
+    <string name="ch2">Php</string>
+    <string name="ch3">Python</string>
+    <string name="ch4">C#</string>
+    <string name="ch5">C++</string>
+    <string name="ra1">Java</string>
+    <string name="ra2">Php</string>
+    <string name="ra3">Python</string>
+    <string name="ra4">C#</string>
+    <string name="ra5">C++</string>
+    <string name="mostrar">resultado</string>
+    <string name="mostrar2">resultado2</string>
+    <string name="mostrar3">resultado3</string>
+
+</resources>
